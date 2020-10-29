@@ -18,6 +18,7 @@ Choose one of the sub-scenarios to follow below:
 
 * Fork this repo, make a change and create a [Pull Request](https://github.com/KathyReid/super-acme-software/pulls)
 * Pretend you don't know much about the Super Acme Software codebase, you just want the t-shirt! t-shirt!!!11!!!!
+* Choose whether you use the _Pull Request template_ or not. Do you like using the PR Template? Provide as much or as little information about the PR as you like. 
 * If the maintainer responds to your PR, consider engaging with them. What if they don't accept your PR? 
 
 ## Acknowledgements 
